@@ -5,5 +5,6 @@ public class HelloGit {
         System.err.println("hello Git!");
         System.err.println("更新1");
         System.err.println("创建分支");
+        System.err.println("分支添加");
     }
 }
