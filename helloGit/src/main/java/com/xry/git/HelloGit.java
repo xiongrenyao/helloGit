@@ -7,5 +7,6 @@ public class HelloGit {
         System.err.println("创建分支");
         System.err.println("主干添加");
         System.err.println("分支添加");
+        System.err.println("克隆添加");
     }
 }
